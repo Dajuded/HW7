@@ -1,1 +1,4 @@
-Training Loss: None
+Training Loss: 3.0748
+Training Runtime: 1645.92 seconds
+Training Samples per second: 1.82 samples/s
+Training Steps per second: 1.82 steps/s
